@@ -91,5 +91,42 @@
           "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
           ]
           }
+          ],
+          "register": [
+            {
+              "id": 1,
+              "name": "param",
+              "mobile": 9685744152,
+              "email": "param@gmail.com",
+              "password": "123456"
+            },
+            {
+              "id": 2,
+              "name": "r",
+              "email": "r@gmail.com",
+              "mobile": "9968547458",
+              "password": "123456"
+            },
+            {
+              "id": 3,
+              "name": "MOHIT",
+              "email": "m@gmail.com",
+              "mobile": "7896547858",
+              "password": "123456"
+            },
+            {
+              "id": 4,
+              "name": "vikas",
+              "email": "v@gmail.com",
+              "mobile": "7879398439",
+              "password": "123456"
+            },
+            {
+              "id": 5,
+              "name": "dadu",
+              "email": "d@gmail.com",
+              "mobile": "9968547458",
+              "password": "123456"
+            }
           ]
   }
