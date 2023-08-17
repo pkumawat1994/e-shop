@@ -297,5 +297,42 @@
               "contact": "09040398006",
               "dateTime": "30/08/2019"
             }
+          ],
+          "reviews": [
+            {
+              "id": 1,
+              "reviewTitle": "r-Tittle",
+              "reviewText": "R-Text",
+              "userId": "45345jb435jnb45",
+              "rating": 4.5
+            },
+            {
+              "id": 2,
+              "reviewTitle": "r-Tittdsfgsle",
+              "reviewText": "R-Text",
+              "userId": "45345jbsdffg435jnb45",
+              "rating": 5
+            },
+            {
+              "reviewTitle": "r-Tittle",
+              "reviewText": "R-Text",
+              "userId": "45345jb435jnb45",
+              "rating": "2",
+              "id": 3
+            },
+            {
+              "reviewTitle": "rahul",
+              "reviewText": "param",
+              "userId": "paramID",
+              "rating": "5",
+              "id": 4
+            },
+            {
+              "reviewTitle": "rahul",
+              "reviewText": "kumawat",
+              "userId": "9876",
+              "rating": "0.5",
+              "id": 5
+            }
           ]
   }
